@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    background-color: black;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    font-family: monospace;
+    font-size: 14px;
+}
